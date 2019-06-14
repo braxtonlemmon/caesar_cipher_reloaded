@@ -1,5 +1,5 @@
 require "bundler"
-require "./encoder"
+require "./lib/encoder"
 Bundler.require
 
 class CaesarCipher < Sinatra::Base

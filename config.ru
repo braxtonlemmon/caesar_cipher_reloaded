@@ -1,6 +1,6 @@
 require "bundler"
 Bundler.require
 
-require "./caesar"
+require "./lib/caesar"
 
 run CaesarCipher

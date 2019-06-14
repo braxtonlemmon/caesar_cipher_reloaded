@@ -1,0 +1,17 @@
+* {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.main {
+	width: 200px;
+	height: 500px;
+	margin: auto;
+	text-align: center;
+	padding: 50px 30px;
+	border: 2px solid black;
+}
+
+.submit {
+	padding: 4px;
+	margin: 10px;
+}
