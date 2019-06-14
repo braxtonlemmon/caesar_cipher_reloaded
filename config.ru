@@ -1,6 +1,6 @@
+require "./lib/caesar"
+require "rubygems"
 require "bundler"
 Bundler.require
 
-require "./lib/caesar"
-
-run CaesarCipher
+run Sinatra::Application
