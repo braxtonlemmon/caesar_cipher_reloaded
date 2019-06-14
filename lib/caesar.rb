@@ -1,3 +1,4 @@
+require "sinatra"
 require "bundler"
 require "./lib/encoder"
 Bundler.require
